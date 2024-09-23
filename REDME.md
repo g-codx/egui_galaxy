@@ -1,6 +1,6 @@
 ### Simple galaxy generator
 
-![img.png](assets/img.png)
+![img.png](src/assets/img.png)
 
 # Run
 `cargo run --release`
